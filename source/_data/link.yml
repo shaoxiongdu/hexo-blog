@@ -1,0 +1,27 @@
+- class_name: 友情链接
+  class_desc: 我的好盆友们
+  link_list:
+    - name: 北辰の小栈
+      link: https://www.mz-zone.cn
+      descr: 江天一色无纤尘，皎皎空中孤月轮。
+      avatar: https://fastly.jsdelivr.net/gh/casteller/berrychenpic/beychen.gif
+    - name: 程序员 LukaChen
+      link: http://lukachen.com/
+      descr: 超级棒
+    - name: 苏岳宁博客
+      link: http://suyuening.com
+      avatar: https://suyuening.com/wp-content/uploads/2011/06/2ddbeb93b35284126660bd4b0e500d4a.jpg
+      descr: 苏岳宁小站是苏岳宁的个人网上家园
+    - name: Find­My­FUN
+      link: https://www.findmyfun.cn
+      descr: 意识到为时已晚之时 恰恰就是最早之日
+    - name: 软考真题网
+      link: https://ruankaoti.com
+      descr: 免费、开源、共享软考真题网
+    - name: Baldwin个人博客
+      link: https://blog.yzstu.cn/
+      descr: 其实我们可以将所有的问题归结为两种：一种是没饭吃饿出来的；一种是吃饱了撑出来的。
+    - name: I Am I
+      link: https://5ime.cn
+      avatar: https://cdn.jsdelivr.net/gh/5ime/img/avatar.jpg
+      descr: 博主是一名天朝的中学生，致力于研究各种奇怪的语言
