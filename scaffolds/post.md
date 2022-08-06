@@ -1,12 +1,9 @@
 ---
 title: {{ title }}
 date: {{ date }}
-Updated: {{updated}}
-comments: true
+cover: https://api.mtyqx.cn/tapi/random.php
 tags: 
-  - 
-
+- 
 categories:  
-  - 
-top_img: 
+-
 ---
