@@ -5,7 +5,7 @@
 # Site
 title: ShaoxiongDu'Blog
 subtitle: '抛弃世俗之浮躁，留我钻研之刻苦。'
-description: '杜少雄的个人博客  '
+description: "抛弃世俗之浮躁，留我钻研之刻苦。"
 keywords: Java java JVM jvm 程序员 理想汽车 Java程序员
 author: 杜少雄
 language: zh-CN
@@ -14,7 +14,7 @@ timezone: 'Asia/Shanghai'
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
 url: https://shaoxiongdu.cn
-permalink: :year/:month/:day/:title/
+permalink: :title/
 permalink_defaults:
 pretty_urls:
   trailing_index: false # Set to false to remove trailing 'index.html' from permalinks
