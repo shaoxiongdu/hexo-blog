@@ -64,17 +64,13 @@ top_img: https://api.ixiaowai.cn/gqapi/gqapi.php
     
     - 以应届身份加入理想汽车智能空间-框架开发组负责车机framework的开发。
 
-
-
 ## 公众号
 
 持续维护的公众号： 程序员阿杜，欢迎关注！
 
 ![image-20220806200653852](https://images-1301128659.cos.ap-beijing.myqcloud.com/MacBookPro202208062006876.png)
 
-
-
-# 后记
+## 后记
 
 - 目标是做个有温度的技术人。
 - 技术方面如果有任何诉求千万要大胆与我分享，合理的诉求我都会尽力帮忙~
