@@ -1,13 +1,11 @@
 ---
 title: JVM-监控及诊断工具-GUI篇
 tags:
-
 - JVM
 - Java
   categories:
 - 技术
-  date: 2022-08-06 20:26:38
-  Updated:
+  date:  2022-08-06 20:26:38
   cover: https://raw.githubusercontent.com/shaoxiongdu/images/main/images/image-20210711170026972.png
 
 ---

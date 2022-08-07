@@ -1,6 +1,5 @@
 ---
-title: GPU负载分析下的最佳实践
-cover: https://api.ixiaowai.cn/gqapi/gqapi.php
+title: GPU负载分析下的最佳实践cover:  https://api.ixiaowai.cn/gqapi/gqapi.php
 tags:
 
 - 安卓
@@ -8,7 +7,7 @@ tags:
 - 性能优化
   categories:
 - 技术
-  date: 2022-08-07 15:04:04
+  date:  2022-08-07 15:04:04
 
 ---
 

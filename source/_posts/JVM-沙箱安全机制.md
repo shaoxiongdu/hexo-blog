@@ -1,13 +1,11 @@
 ---
 title: JVM-沙箱安全机制
 tags:
-
 - JVM
 - Java
   categories:
 - 技术
-  date: 2022-08-06 20:26:32
-  Updated:
+  date:  2022-08-06 20:26:32
   cover: https://api.ixiaowai.cn/gqapi/gqapi.php
 
 ---

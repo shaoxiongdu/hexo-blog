@@ -1,9 +1,10 @@
 ---
 title: {{ title }}
 date: {{ date }}
-cover: 
+cover:
 tags:
-- 
-categories:  
--
+categories:
+
+- 技术
+
 ---

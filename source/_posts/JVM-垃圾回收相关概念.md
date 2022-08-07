@@ -1,13 +1,11 @@
 ---
 title: JVM-垃圾回收相关概念
 tags:
-
 - JVM
 - Java
   categories:
 - 技术
-  date: 2022-08-06 20:26:36
-  Updated:
+  date:  2022-08-06 20:26:36
   cover: (https://images-1301128659.cos.ap-beijing.myqcloud.com/MacBookPro202208051421362.png
 
 ---
@@ -19,7 +17,6 @@ tags:
 - 在默认情况下，手动调用System.gc或者RunTime.getRunTime().gc()，会显式出发FullGC 同时对新生代和老年代进行回收，尝试释放垃圾。
 
 - 然而System.gc（）调用附带一个免责声明，==无法保证对垃圾收集器的调用(无法保证马上触发GC)==。
-
 - JVM实现者可以通过system.gc（）调用来决定JVM的GC行为。而一般情况下，垃圾回收应该是自动进行的，无须手动触发，否则就太过于麻烦了。在一些特殊情况下，如我们正在编写一个性能基准，我们可以在运行之间调用System.gc（）。
 
 - 以下代码,如果注掉System.runFinalization(); 那么控制台不保证一定打印,证明了System.gc（）无法保证GC一定执行
