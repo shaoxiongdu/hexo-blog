@@ -8,7 +8,7 @@ tags:
 - 技术
   date: 2022-08-06 20:26:32
   Updated:
-  cover: https://api.mtyqx.cn/tapi/random.php
+  cover: https://api.ixiaowai.cn/gqapi/gqapi.php
 
 ---
 
