@@ -1,12 +1,10 @@
 ---
 title: JVM-线程安全
-tags:
-- JVM
+tags:- JVM
 - Java
 categories:
 - 技术
-date: 2022-08-06 20:26:40
-cover: https://api.ixiaowai.cn/gqapi/gqapi.php
+  date: 2022-08-06 20:26:40cover:  https://api.ixiaowai.cn/gqapi/gqapi.php
 
 ---
 

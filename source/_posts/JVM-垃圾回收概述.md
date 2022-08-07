@@ -1,13 +1,11 @@
 ---
 title: JVM-垃圾回收概述
 tags:
-
 - JVM
 - Java
   categories:
 - 技术
-  date: 2022-08-06 20:26:36
-  Updated:
+  date:  2022-08-06 20:26:36
   cover: https://images-1301128659.cos.ap-beijing.myqcloud.com/MacBookPro202208051420617.png
 
 ---

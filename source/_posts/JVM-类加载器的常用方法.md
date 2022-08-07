@@ -1,13 +1,11 @@
 ---
 title: JVM-类加载器的常用方法
 tags:
-
 - JVM
 - Java
   categories:
 - 技术
-  date: 2022-08-06 20:26:31
-  Updated:
+  date:  2022-08-06 20:26:31
   cover: https://images-1301128659.cos.ap-beijing.myqcloud.com/MacBookPro202208051415566.png
 
 ---

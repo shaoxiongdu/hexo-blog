@@ -1,13 +1,11 @@
 ---
 title: JVM-Java线程
 tags:
-
 - JVM
 - Java
   categories:
 - 技术
-  date: 2022-08-06 20:26:40
-  Updated:
+  date:  2022-08-06 20:26:40
   cover: https://images-1301128659.cos.ap-beijing.myqcloud.com/MacBookPro202208051425287.png
 
 ---
