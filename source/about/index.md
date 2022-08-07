@@ -2,7 +2,7 @@
 title: 关于我
 date: 2022-08-06 15:33:28
 type: about
-aside: false
+aside: true
 updated: {{ updated }}
 top_img: https://api.ixiaowai.cn/gqapi/gqapi.php
 ---
